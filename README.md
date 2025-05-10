@@ -108,7 +108,7 @@ visualize_product_data(products)
 
 ![image](https://github.com/user-attachments/assets/b1f221a6-79dc-4b9e-b933-6e044304df5a)
 
-![image](https://github.com/user-attachments/assets/e794d3e5-45bd-42e7-a3dd-f809823452c5)
+![image](https://github.com/user-attachments/assets/602efbbd-ddab-45d1-b505-83688822ee49)
 
 ![Output](https://github.com/user-attachments/assets/e8baeac0-1ce7-438f-a593-f8dd2e92b747)
 
